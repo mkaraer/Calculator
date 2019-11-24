@@ -19,6 +19,7 @@ public class Calculator {
     public static void salary(int num1,int num2){
      inthhhhhhhhhhh   salary=num1*num2;
     }
+    //this is commnet line 22 github
     public static double divided (double n1, double n2){
     return n1/n2;
     }
